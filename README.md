@@ -1,45 +1,83 @@
-# C Programming Assignment 1
+# C Programming Assignments
 
-This repository contains solutions to Assignment 1 (Getting Started with C) provided during my training program. The assignment focuses on fundamental C programming concepts and basic problem-solving techniques.
+This repository contains my completed C programming assignments provided during my C Programming training at DigiCoders Technologies. These assignments cover the fundamental concepts of C programming, including operators, decision-making statements, loops, arrays, strings, and functions. 0
 
-## Topics Covered
+## 📚 Assignments Covered
 
+### Assignment 1 - Getting Started with C
 - Arithmetic Operations
 - Ternary Operator
-- User Input and Output
-- Bell Sound Generation
-- ASCII Character Conversion
-- Square of a Number
-- Average Calculation
-- Simple Interest Calculation
+- Student Information Input/Output
+- ASCII Value Programs
 - Temperature Conversion
-- Swapping Variables
-- ASCII Value of Character
+- Simple Interest Calculation
+- Variable Swapping
 
-## Programs Included
+### Assignment 2 - Control/Decision Making Statements
+- Greatest Number Programs
+- Odd/Even Number Check
+- Positive/Negative Number Check
+- Leap Year Program
+- Uppercase/Lowercase Check
+- Vowel/Consonant Check
+- Switch Case Programs
 
-1. Mathematical operations using arithmetic operators
-2. Find maximum of two numbers using ternary operator
-3. Input and display student name and roll number
-4. Generate bell sound
-5. Print character from ASCII value
-6. Find square of a number
-7. Calculate average of three numbers
-8. Calculate simple interest
-9. Convert Fahrenheit to Celsius
-10. Swap two variables using third variable
-11. Print ASCII value of a character
-12. Swap two variables without using third variable
+### Assignment 3 - Implementing Loops
+- Fibonacci Series
+- Reverse Number
+- Multiplication Table
+- Factorial
+- Sum of Digits
+- Armstrong Number
+- Palindrome Number
+- Prime Number
+- Alphabet Printing
+- Pattern Programs
 
-## Technologies Used
+### Assignment 4 - Array & String
+- Largest and Smallest Element in Array
+- Sum of Array Elements
+- Matrix Addition
+- Matrix Subtraction
+- Matrix Transpose
+- String Functions
+  - strcat()
+  - strlen()
+  - strcpy()
+  - strcmp()
+  - strrev()
+
+### Assignment 5 - Functions
+- Sum of Digits Using Function
+- Factorial Using Function
+- Reverse Number Using Function
+- Vowel or Consonant Check
+- String Case Conversion
+- Recursion
+- Prime Number Check
+
+## 🛠️ Technologies Used
 
 - C Programming Language
 - GCC Compiler
+- Visual Studio Code
 
-## Training
+## 🎯 Learning Outcomes
 
-Completed as part of the C programming Training Program at digicoder technology private limited 
+Through these assignments, I learned:
 
-## Author
+- C Programming Fundamentals
+- Decision Making Statements
+- Looping Concepts
+- Arrays and Strings
+- Functions and Recursion
+- Problem Solving Skills
 
-Saurabh Sahu
+## 👨‍💻 Author
+
+**Saurabh Sahu**  
+Diploma in Computer Science & Engineering (BTEUP)
+
+---
+
+⭐ If you like this repository, don't forget to star it.
